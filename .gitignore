@@ -1,0 +1,9 @@
+data/
+*.session
+*.session-journal
+state.json
+.env
+__pycache__/
+*.pyc
+results/
+config.json
